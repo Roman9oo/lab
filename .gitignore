@@ -1,0 +1,12 @@
+.terraform/
+.aws/
+.ssh/
+.bash*
+.config/
+.gnupg/
+.local/
+.cache/
+snap/
+Downloads/
+awscliv2.zip
+s3api*
